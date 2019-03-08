@@ -4,9 +4,7 @@ This repository contains the demos used during the Swift for TensorFlow
 TFDevSummit 2019 presentation. Feel free to check them out and try them
 yourselves! For proper tutorials with a bit more explanatory text, check
 out the normal [Swift for TensorFlow](https://github.com/tensorflow/swift)
-repository.
-
-> I will add a link to the YouTube video recording when available.
+repository, and [watch the recording on YouTube](https://www.youtube.com/watch?v=s65BigoMV_I).
 
 ## Links
 
